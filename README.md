@@ -1,5 +1,5 @@
 ### Hi there 👋
 
-*I'm Mohammed Almustafa Ahmed I'm a backend developer and a DevOps engineer with a lot passion to be more. You can fine more about me at:*
+Experienced Software Engineer skilled in Web, Databases, and DevOps. Proficient in JavaScript, Python, Golang. Curious about Data Science, Security, committed to continuous learning and improvement. Always open to learning new technologies and solving problems.
 
  - [LinkedIn](https://www.linkedin.com/in/mustafa-balila-171217159/)
